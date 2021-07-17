@@ -34,6 +34,9 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 
 ## Topic Covered
 - Building a basic NextJs app using create-next-app
+- Creating static pages
+- Linking pages
+- Working with images
 
 ## Source
 https://production-grade-nextjs.vercel.app/
