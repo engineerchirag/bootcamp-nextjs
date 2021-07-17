@@ -19,17 +19,17 @@ export default function Home() {
         </p>
 
         <div className="grid">
+          <a href="https://nextjs.org/docs" className="card">
+            <h3>Documentation &rarr;</h3>
+            <p>Find in-depth information about Next.js features and API.</p>
+          </a>
+
           <Link href="/curriculum">
             <a className="card">
-              <h3>Documentation &rarr;</h3>
-              <p>Find in-depth information about Next.js features and API.</p>
+              <h3>Curriculum &rarr;</h3>
+              <p>Find Next.js bootcamp detailed curriculum.</p>
             </a>
           </Link>
-
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Curriculum &rarr;</h3>
-            <p>Find Next.js bootcamp detailed curriculum.</p>
-          </a>
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Learn &rarr;</h3>
