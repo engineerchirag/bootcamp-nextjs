@@ -33,13 +33,17 @@ Visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full docume
 Next.js is used by the world's leading companies. Check out the [Next.js Showcase](https://nextjs.org/showcase) to learn more.
 
 ## Topic Covered
-- Building a basic NextJs app using create-next-app
-- Creating static pages
-- Linking pages
-- Working with images
+
+-   Building a basic NextJs app using create-next-app
+-   Creating static pages
+-   Linking pages
+-   Working with images
+-   Using metadata
 
 ## Source
+
 https://production-grade-nextjs.vercel.app/
 
 ## Author
+
 Chirag Goel [engineerchirag](http://www.engineerchirag.in)
