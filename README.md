@@ -39,6 +39,7 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Linking pages
 -   Working with images
 -   Using metadata
+-   Layout component and styling (component & app level)
 
 ## Source
 

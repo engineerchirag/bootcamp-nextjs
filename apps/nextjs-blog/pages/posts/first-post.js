@@ -1,5 +1,9 @@
-export default function FirstPost () {
+import Layout from '../../components/layout/layout';
+
+export default function FirstPost() {
     return (
-        <span>First Post</span>
-    )
+        <Layout>
+            <span>First Post</span>
+        </Layout>
+    );
 }
