@@ -44,6 +44,7 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Lesson 8: Server side rendering
 -   Lesson 9: Client side rendering (SWR)
 -   Lesson 10: Dynamic routes
+-   Lesson 11: API routes
 
 ## Source
 
