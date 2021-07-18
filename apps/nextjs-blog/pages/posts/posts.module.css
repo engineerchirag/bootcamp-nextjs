@@ -50,3 +50,8 @@
 .lightText {
     color: #666;
 }
+
+.table {
+    border: 1px solid #ccc;
+    padding: 10px;
+}

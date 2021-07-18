@@ -47,6 +47,12 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Lesson 11: API routes
 -   Lesson 12: Incremental Static Regeneration
 
+## Important Links
+
+-   Tools to verify what Next.js eliminates from the client-side bundle. [Tool](https://next-code-elimination.vercel.app/)
+-   ISR [Doc](https://vercel.com/docs/next.js/incremental-static-regeneration)
+-   Preview mode [Doc](https://nextjs.org/docs/advanced-features/preview-mode)
+
 ## Source
 
 https://production-grade-nextjs.vercel.app/
