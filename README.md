@@ -54,6 +54,14 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   ISR [Doc](https://vercel.com/docs/next.js/incremental-static-regeneration)
 -   Preview mode [Doc](https://nextjs.org/docs/advanced-features/preview-mode)
 -   React hook for data fetching [SWR](https://swr.vercel.app/)
+-   Script loading optimization [Doc](https://nextjs.org/docs/basic-features/script)
+-   Shallow Routing [Doc](https://nextjs.org/docs/routing/shallow-routing)
+-   Dynamic Import [Doc](https://nextjs.org/docs/advanced-features/dynamic-import)
+-   URL proxy [Doc](https://nextjs.org/docs/api-reference/next.config.js/rewrites)
+-   Multiple apps using Monorepo [Doc](https://vercel.com/blog/monorepos)
+-   Measuring performance [Doc](https://nextjs.org/docs/advanced-features/measuring-performance)
+-   Setting security headers [Doc](https://nextjs.org/docs/advanced-features/security-headers)
+-   Caching [Doc](https://nextjs.org/docs/going-to-production#caching)
 
 ## Source
 
