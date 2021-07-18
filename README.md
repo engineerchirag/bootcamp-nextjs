@@ -40,6 +40,7 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Working with images
 -   Using metadata
 -   Layout component and styling (component & app level)
+-   Pre-rendering using static generation
 
 ## Source
 
