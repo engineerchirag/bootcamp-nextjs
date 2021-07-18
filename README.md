@@ -52,6 +52,7 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Tools to verify what Next.js eliminates from the client-side bundle. [Tool](https://next-code-elimination.vercel.app/)
 -   ISR [Doc](https://vercel.com/docs/next.js/incremental-static-regeneration)
 -   Preview mode [Doc](https://nextjs.org/docs/advanced-features/preview-mode)
+-   React hook for data fetching [SWR](https://swr.vercel.app/)
 
 ## Source
 
