@@ -34,13 +34,16 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 
 ## Topic Covered
 
--   Building a basic NextJs app using create-next-app
--   Creating static pages
--   Linking pages
--   Working with images
--   Using metadata
--   Layout component and styling (component & app level)
--   Pre-rendering using static generation
+-   Lesson 1: Building a basic NextJs app using create-next-app
+-   Lesson 2: Creating static pages
+-   Lesson 3: Linking pages
+-   Lesson 4: Working with images
+-   Lesson 5: Using metadata
+-   Lesson 6: Layout component and styling (component & app level)
+-   Lesson 7: Pre-rendering using static generation
+-   Lesson 8: Server side rendering
+-   Lesson 9: Client side rendering (SWR)
+-   Lesson 10: Dynamic routes
 
 ## Source
 
