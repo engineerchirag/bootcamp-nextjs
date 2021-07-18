@@ -51,9 +51,9 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 ## Important Links
 
 -   Tools to verify what Next.js eliminates from the client-side bundle. [Tool](https://next-code-elimination.vercel.app/)
--   ISR [Doc](https://vercel.com/docs/next.js/incremental-static-regeneration)
+-   Incremental Static Regeneration - ISR [Doc](https://vercel.com/docs/next.js/incremental-static-regeneration)
 -   Preview mode [Doc](https://nextjs.org/docs/advanced-features/preview-mode)
--   React hook for data fetching [SWR](https://swr.vercel.app/)
+-   React hook for data fetching - SWR [Doc](https://swr.vercel.app/)
 -   Script loading optimization [Doc](https://nextjs.org/docs/basic-features/script)
 -   Shallow Routing [Doc](https://nextjs.org/docs/routing/shallow-routing)
 -   Dynamic Import [Doc](https://nextjs.org/docs/advanced-features/dynamic-import)
@@ -62,6 +62,7 @@ Next.js is used by the world's leading companies. Check out the [Next.js Showcas
 -   Measuring performance [Doc](https://nextjs.org/docs/advanced-features/measuring-performance)
 -   Setting security headers [Doc](https://nextjs.org/docs/advanced-features/security-headers)
 -   Caching [Doc](https://nextjs.org/docs/going-to-production#caching)
+-   Custom webpack config [Doc](https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config)
 
 ## Source
 
